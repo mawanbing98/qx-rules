@@ -1,5 +1,11 @@
 # 自定义白名单
+# 后缀匹配
 # HOST-SUFFIX, example.com, DIRECT
+#精确匹配
 # HOST, test.mysite.com, DIRECT
+#关键字匹配
 # HOST-KEYWORD, somekeyword, DIRECT
+
+# 微信应用
+# 微信游戏圈图片加载
 HOST-SUFFIX, MMGAME.QPIC.CN, REJECT
