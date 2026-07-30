@@ -11,3 +11,4 @@
 HOST-SUFFIX, MMGAME.QPIC.CN, REJECT
 #QQ音乐广告
 HOST, canvas-cdn.gdt.qq.com, DIRECT
+HOST, adsmind.gdtimg.com, DIRECT
